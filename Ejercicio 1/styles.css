@@ -1,0 +1,39 @@
+.contenedor {
+    background-color: rgb(226, 226, 226);
+    text-align: center;
+    width: 40%;
+    margin: 10px auto;
+    border: 1px solid hsl(0, 0%, 0%);
+}
+
+.formulario{
+    background-color:rgb(255, 255, 255);
+    text-align: start;
+    padding: 10px;
+    width: 50%;
+    margin: 10px auto;
+    border: 1px solid #000;
+}
+
+.formulario h4 {
+    margin: 0;
+    padding: 0;
+}
+
+.contenedor input {
+    width: 100%;
+    box-sizing: border-box;
+    margin: 5px 0;
+}
+
+.formulario button{
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0;
+    background-color: blue;
+    border-radius: 10px;
+}
+
+.ingreso{
+    padding-bottom: 10px;
+}
