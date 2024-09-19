@@ -1,0 +1,26 @@
+body.dark-mode {
+    background-color: #121212;
+    color: #f5f5f5;
+  }
+  
+  .dark-mode .border-primary {
+    border-color: #90caf9 !important;
+  }
+  
+  .dark-mode .bg-light {
+    background-color: #1e1e1e !important;
+  }
+  
+  .dark-mode .btn-success {
+    background-color: #2e7d32 !important;
+  }
+  
+  .dark-mode .btn-light {
+    background-color: #333 !important;
+    color: #fff;
+  }
+  
+  .dark-mode .btn-dark {
+    background-color: #666 !important;
+    color: #fff;
+  }
